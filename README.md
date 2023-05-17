@@ -26,17 +26,17 @@
 # focused on connecting a watch to a pc with live data and parsing that data to decide whether or not
 # someone is stressed.
 
-# Development & Evaluation Plan
-# Our development and evaluation plan will follow a user-centered design process. We will conduct
-# informal interviews and surveys with the students on campus to help us pinpoint everyday things that
-# affect the average student's mental state. We will collect data that we will summarize using thematic
-# analysis. In our prototyping phase, we will ask a sample of students to download and use our extension
-# for a day. During this testing period we will collect qualitative feedback from students and use thematic
-# analysis. Using this feedback, we will be able to make the necessary adjustments to “LifeSaver” so that
-# we can have it prepared for the initial prototype. Our next step is we will bring those same students back
-# to test LifeSaver for another week to rate the new improvements. Students in this evaluation will be asked
-# to use the application during the week to track their mental health on a daily basis and then complete an
-# exit survey. Our final analysis will consist of evaluating data and exit surveys to better understand if our
-# application was helpful and has a positive impact on our subjects mental health. A win for us is making
-# sure that this a go to extension for people that struggle with mental health and ultimately help decrease the
-# suicide rate amongst young teens and adults.
+#Development & Evaluation Plan
+#Our development and evaluation plan will follow a user-centered design process. We will conduct
+#informal interviews and surveys with the students on campus to help us pinpoint everyday things that
+#affect the average student's mental state. We will collect data that we will summarize using thematic
+#analysis. In our prototyping phase, we will ask a sample of students to download and use our extension
+#for a day. During this testing period we will collect qualitative feedback from students and use thematic
+#analysis. Using this feedback, we will be able to make the necessary adjustments to “LifeSaver” so that
+#we can have it prepared for the initial prototype. Our next step is we will bring those same students back
+#to test LifeSaver for another week to rate the new improvements. Students in this evaluation will be asked
+#to use the application during the week to track their mental health on a daily basis and then complete an
+#exit survey. Our final analysis will consist of evaluating data and exit surveys to better understand if our
+#application was helpful and has a positive impact on our subjects mental health. A win for us is making
+#sure that this a go to extension for people that struggle with mental health and ultimately help decrease the
+#suicide rate amongst young teens and adults.
