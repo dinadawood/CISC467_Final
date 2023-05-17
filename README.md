@@ -40,3 +40,23 @@
 #application was helpful and has a positive impact on our subjects mental health. A win for us is making
 #sure that this a go to extension for people that struggle with mental health and ultimately help decrease the
 #suicide rate amongst young teens and adults.
+
+# Date Goal
+#02/16 Prepare initial design concepts, formative interview materials, and recruitment materials
+#02/21 Group brainstorming about application designs
+#03/06 Revised Project Pitch
+#03/11 Paper prototype development & end-of-week external testing
+#03/15 Create and finalize a survey to send out to students
+#03/18 Start sending out a survey to students on campus and posting QR code scanners
+#03/25 Organize survey data and brainstorm paper prototype ideas over break
+#04/01 Begin paper prototype development
+#04/04 Conduct internal and external testing with various students
+#04/07 Summarize and compile user testing data and start to plan out application design
+#04/11 In-Class Presentation 1
+#04/13 Team Evaluation 1
+#04/18 Create a Figma based on our application design plans & conduct another round of internal and external testing
+#04/25 In-Class Presentation 2
+#05/02 Paper Check-In
+#05/06 Analyze data, summarize data for report
+#05/13 Finalize report and project presentation
+#05/18 Final Project Due - Team Evaluation 2
