@@ -1,27 +1,11 @@
 {
-<<<<<<< HEAD
-    "manifest_version": 2,
-    "name": "Getting started example",
-    "version": "1.0",
-    "browser_action": {
-        "default_popup": "popup.html"
-    },
-    "permissions": [
-        "activeTab"
-    ]
-}
-=======
-  "short_name": "LifeSaver",
-  "name": "LifeSaver React TS",
-  "icons": {},
-  "version": "1.0.0",
-  "action": {
-    "default_title": "Popup",
-    "default_popup": "index.html",
+  "manifest_version": 2,
+  "name": "Getting started example",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "popup.html"
   },
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "permissions": [
+    "activeTab"
+  ]
 }
->>>>>>> 4b058246ce741dfd12edbc731b0b5561a53584c0
