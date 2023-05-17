@@ -2,9 +2,9 @@
 
 # LifeSaver: Saving Lives with AI
 
-# Dawood, Dina, Computer & Information Sciences, University of Delaware, ddawood@udel.edu
-# Rusin, Alexander, Computer & Information Sciences, University of Delaware, arusin@udel.edu
-# Diallo Thern, Computer & Information Sciences, University of Delaware, thernd@udel.edu
+#Dawood, Dina, Computer & Information Sciences, University of Delaware, ddawood@udel.edu
+#Rusin, Alexander, Computer & Information Sciences, University of Delaware, arusin@udel.edu
+#Diallo Thern, Computer & Information Sciences, University of Delaware, thernd@udel.edu
 
 # Solution
 #Our goal is to design a digital web extension that can connect to most smartwatches through the help of
