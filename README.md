@@ -3,7 +3,8 @@
 # LifeSaver: Saving Lives with AI
 
 #Dawood, Dina, Computer & Information Sciences, University of Delaware, ddawood@udel.edu
-Rusin, Alexander, Computer & Information Sciences, University of Delaware, arusin@udel.edu
+
+#Rusin, Alexander, Computer & Information Sciences, University of Delaware, arusin@udel.edu
 
 # Solution
 #Our goal is to design a digital web extension that can connect to most smartwatches through the help of Bluetooth to collect physiological measurements and determine when the pop-up screen activates. When downloading this extension, users have the option to personalize how long their screen will time out and an optional selection for when it is active. The design of the extension is similar to many ios and android apps that send notifications when a timer is up. Some apps are designed to motivate the user to continue focusing with an incentive, one popular example of this is growing a tree or dragon eggs. In order to activate the “Take a Break” pop-up screen, the individual’s physiological function must meet the ranges discussed in the research references. Ideally, the pop-up screen should last at least 1-2 minutes and can range longer as desired. The optional selection of when to activate can function just like Do Not Disturb or an on/off button to support times when the pop-up should not disturb things such as calls, exams, etc. As the heart rate, temperature, and stress measures elevate, the pop-up activates and displays a short motivational quote or short actions like “Drink a cup of water”, “Take 3 deep breaths”, etc. Animation that will be aesthetically pleasing in a way to relax the user. And finally, a chat button on the side that the user can use to connect to support if in need to talk to someone.
